@@ -1,9 +1,8 @@
 # Data-Science-Internship-Projects
-These are my 4 capstone and 1 client projects in ..ipynb and .pdf files of each projects.
+These are my 4 capstone and 1 client projects in .ipynb and .pdf files of each projects.
 
 
 Project name list to classify well.
-
 
 1). PRCP-1025 :- Flight Price Prediction
 
