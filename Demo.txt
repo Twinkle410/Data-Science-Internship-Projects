@@ -1,2 +1,12 @@
 Hey, How are you?
 I'm Fine.
+Type I and Type II Error 
+	- Type I :- when null hypothesis is True But, you rejects the Null hypothesis
+	- Type II :- when null hypothesis is False But, you accept the null Hypothesis
+	- P Value : indicate that what is the probability of Null hypothesis being TRUE, a P Value should be very small foe a research to reject the Null value, we can reject the null hypo with more than 95% confidence which means there is less 5% probability that the null hypothesis True
+Cases of critical region
+	- One-Tailed Test
+	- Two- Tailed test
+	- ---  Tailed test
+
+5% Critical Regeion (Regection area (Null Hypothesis Regect))
